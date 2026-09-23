@@ -1,7 +1,20 @@
-# Archivos temporales generados por Microsoft Excel
-~$*.xlsx
+# Solo se versionan handover/ y las subcarpetas permitidas de plsql/.
+/*
+!/.gitignore
+!/handover/
+!/handover/**
+!/plsql/
+!/plsql/bodies/
+!/plsql/bodies/**
+!/plsql/specs/
+!/plsql/specs/**
+!/plsql/scripts/
+!/plsql/scripts/**
 
-# Archivos temporales comunes
-*.tmp
-*.temp
-
+# Material local que no debe subirse
+/Archivos/
+/handover.zip
+/plsql/bodies.zip
+/plsql/specs.zip
+/image.png
+/image (1).png
