@@ -3,6 +3,8 @@
 !/.gitignore
 !/handover/
 !/handover/**
+!/apex/
+!/apex/**
 !/plsql/
 !/plsql/bodies/
 !/plsql/bodies/**
