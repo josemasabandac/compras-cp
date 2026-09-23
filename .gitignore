@@ -1,0 +1,7 @@
+# Archivos temporales generados por Microsoft Excel
+~$*.xlsx
+
+# Archivos temporales comunes
+*.tmp
+*.temp
+
